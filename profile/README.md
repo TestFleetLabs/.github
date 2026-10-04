@@ -14,3 +14,5 @@ the image follows a small container contract.
 - **Website and docs:** [testfleet.io](https://testfleet.io)
 - **Quick start:** [testfleet.io/start/quick-start](https://testfleet.io/start/quick-start/)
 - **Image:** `ghcr.io/testfleetlabs/testfleet` (linux/amd64, linux/arm64)
+
+TestFleet is open source under the [AGPL-3.0](https://github.com/TestFleetLabs/TestFleet/blob/main/LICENSE).
